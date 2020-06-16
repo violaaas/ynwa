@@ -14,7 +14,7 @@ Please read this document carefully. If you have any questions, please email me 
 
 ## Who will see it?
 
-The link to the YouTube video will be posted on Hans' Facebook wall.
+The link to the YouTube video will be posted on Hans' Facebook wall. Please do not mention this to him before it's posted as it's a surprise.
 
 ## Different ways you can contribute:
 
