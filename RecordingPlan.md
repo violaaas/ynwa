@@ -37,7 +37,11 @@ While this can take as short as ten minutes, it ultimately depends on your prepa
 
 ## Download the Score and Click Track
 
-(Not ready yet, expected to be posted in the morning on June 17)
+Parts are arranged by register where 1 is the highest and 6 is the lowest.
+
+[parts](parts/)
+
+Clicktrack TBD
 
 ## How to Use the Click Track
 
