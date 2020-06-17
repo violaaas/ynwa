@@ -41,7 +41,7 @@ Parts are arranged by register where 1 is the highest and 6 is the lowest.
 
 [parts](parts/)
 
-Clicktrack TBD
+[Clicktrack with playback](clicktrack/ynwa-playback.mp3)
 
 ## How to Use the Click Track
 
