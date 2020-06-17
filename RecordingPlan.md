@@ -39,9 +39,10 @@ While this can take as short as ten minutes, it ultimately depends on your prepa
 
 Parts are arranged by register where 1 is the highest and 6 is the lowest.
 
-[parts](parts/)
+[Parts (PDF)](parts/)
 
-[Clicktrack with playback](clicktrack/ynwa-playback.mp3)
+[Clicktrack direct download](https://angry-bee.com/music/ynwa-playback.mp3)
+
 
 ## How to Use the Click Track
 
