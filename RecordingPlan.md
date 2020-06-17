@@ -8,9 +8,9 @@ Please read this document carefully. If you have any questions, please email me 
 
 ## Important Dates
 
-- Submission deadline: Saturday, June 20, 2020 (9am Eastern)
+- Submission deadline: **Saturday, June 20, 2020 (9am Eastern)**
 
-- Hans' birthday: Saturday, June 20, 2020
+- Hans' birthday: **Saturday, June 20, 2020**
 
 ## Who will see it?
 
@@ -41,8 +41,9 @@ Parts are arranged by register where 1 is the highest and 6 is the lowest.
 
 [Parts (PDF)](parts/)
 
-[Clicktrack (direct download)](https://angry-bee.com/music/ynwa-playback.mp3)
+[Clicktrack (direct download - ~5MB)](https://angry-bee.com/music/ynwa-playback.mp3)
 
+[Video playback (direct download - ~120MB)](https://angry-bee.com/music/ynwa-playback.mp4)
 
 ## How to Use the Click Track
 
