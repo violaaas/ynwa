@@ -41,7 +41,7 @@ Parts are arranged by register where 1 is the highest and 6 is the lowest.
 
 [Parts (PDF)](parts/)
 
-[Clicktrack direct download](https://angry-bee.com/music/ynwa-playback.mp3)
+[Clicktrack (direct download)](https://angry-bee.com/music/ynwa-playback.mp3)
 
 
 ## How to Use the Click Track
