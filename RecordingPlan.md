@@ -6,6 +6,8 @@ Please read this document carefully. If you have any questions, please email me 
 
 **You'll Never Walk Alone** (arranged by me)
 
+[YouTube search](https://www.youtube.com/results?search_query=you%27ll+never+walk+alone)
+
 ## Important Dates
 
 - Submission deadline: **Saturday, June 20, 2020 (9am Eastern)**
