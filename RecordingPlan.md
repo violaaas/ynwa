@@ -37,7 +37,7 @@ While this can take as short as ten minutes, it ultimately depends on your prepa
 
 ## Download the Score and Click Track
 
-Parts are arranged by register where 1 is the highest and 6 is the lowest.
+Parts are arranged by register where 1 is the highest and 6 is the lowest. Parts 1-4 are in treble clef and 5-6 are in bass clef.
 
 [Parts (PDF)](parts/)
 
